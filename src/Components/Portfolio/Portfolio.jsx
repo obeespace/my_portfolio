@@ -8,25 +8,25 @@ const dataitem = [
   {
     id: 1,
     image: image1,
-    title: "Keeper App",
-    github: "https://github.com/obeespace/keep_app.git",
-    livedemo: "https://obeespace.github.io/keep_app/",
+    title: "SprynxMulti CareCare Service",
+    github: "https://github.com/obeespace/sprynx",
+    livedemo: "https://sprynx-car-wash.vercel.app/",
   },
 
   {
     id: 2,
     image: image2,
-    title: "To-do List",
-    github: "https://github.com/obeespace/to-do_app.git",
-    livedemo: "https://obeespace.github.io/to-do_app/",
+    title: "Green Bro Veges",
+    github: "https://github.com/obeespace/green_bro",
+    livedemo: "https://food-app-ruby-two.vercel.app/",
   },
 
   {
     id: 3,
     image: image3,
-    title: "Form State",
-    github: "https://github.com/obeespace/changing_form_state_usestate.git",
-    livedemo: "https://obeespace.github.io/changing_form_state_usestate/",
+    title: "Eric Villagio",
+    github: "https://github.com/obeespace/ericVillago",
+    livedemo: "https://gym-app-nine.vercel.app/",
   }
 ]
 
