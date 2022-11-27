@@ -18,7 +18,7 @@ const Header = () => {
         <a href='#contact' className='btn btn-primary'>Contact Me</a>
         
         <div className='me'>
-          <img src={Photo} alt=""s/>
+          <img src={Photo} alt="my_photo"/>
         </div>
 
         <a href="#contact" className ="scroll_down">Scroll Down</a>
